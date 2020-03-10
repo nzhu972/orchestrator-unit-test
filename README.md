@@ -49,11 +49,17 @@ Investigate the Console Output
 
 If the Maven command is successful, you will see output similar to this:
 
-----
+```text
 Results :
 
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 
-----
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  6.926 s
+[INFO] Finished at: 2020-03-09T23:05:16-04:00
+[INFO] ------------------------------------------------------------------------
+```
    
 
